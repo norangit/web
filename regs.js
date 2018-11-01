@@ -1,0 +1,1 @@
+var positiveNumber = /^\d+(\.\d+|\d*)$/ig;
