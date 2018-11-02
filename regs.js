@@ -1,1 +1,4 @@
-var positiveNumber = /^\d+(\.\d+|\d*)$/ig;
+var positiveNumber = /^\d+(\.\d+|\d*)$/i;
+var notEmptyString = /^(?!\s*$).+/i;
+
+
