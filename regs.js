@@ -3,7 +3,7 @@ var notEmptyString = /^(?!\s*$).+/i;
 var emptyString = /^\s*$/i;
 
 onlyNumber(){
-	onKeyup(evt) {
+  onKeyup(evt) {
     const reg = /[^\.\d]/g;
     const dotReg = /\./g;
     const key = evt.key;
