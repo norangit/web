@@ -2,7 +2,7 @@ var positiveNumber = /^\d+(\.\d+|\d*)$/i;
 var notEmptyString = /^(?!\s*$).+/i;
 var emptyString = /^\s*$/i;
 
-onlyNumber(){
+function onlyNumber() {
   onKeyup(evt) {
     const reg = /[^\.\d]/g;
     const dotReg = /\./g;
@@ -19,5 +19,3 @@ onlyNumber(){
     }
   }
 }
-
-
