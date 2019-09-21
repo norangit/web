@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="alt w" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
