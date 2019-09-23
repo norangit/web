@@ -1,6 +1,6 @@
 <keymap version="1" name="Default for Windows copy" parent="$default">
   <action id="CloseContent">
-    <keyboard-shortcut first-keystroke="alt c" />
+    <keyboard-shortcut first-keystroke="alt w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt period" />
