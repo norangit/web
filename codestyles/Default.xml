@@ -81,12 +81,7 @@
     </arrangement>
   </codeStyleSettings>
   <codeStyleSettings language="XML">
-    <option name="RIGHT_MARGIN" value="1000" />
     <option name="LINE_COMMENT_AT_FIRST_COLUMN" value="false" />
     <option name="BLOCK_COMMENT_AT_FIRST_COLUMN" value="false" />
-    <option name="WRAP_ON_TYPING" value="0" />
-    <indentOptions>
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
-    </indentOptions>
   </codeStyleSettings>
 </code_scheme>
