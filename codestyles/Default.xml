@@ -4,6 +4,9 @@
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="0" />
   </HTMLCodeStyleSettings>
+  <XML>
+    <option name="XML_ATTRIBUTE_WRAP" value="0" />
+  </XML>
   <codeStyleSettings language="CSS">
     <arrangement>
       <rules>
