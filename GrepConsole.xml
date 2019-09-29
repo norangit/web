@@ -50,7 +50,6 @@
                       </option>
                     </GrepExpressionItem>
                     <GrepExpressionItem>
-                      <option name="enabled" value="false" />
                       <option name="grepExpression" value=".*INFO.*" />
                     </GrepExpressionItem>
                     <GrepExpressionItem>
@@ -107,9 +106,13 @@
               </GrepExpressionGroup>
             </list>
           </option>
+          <option name="maxLengthToGrep" value="5000" />
+          <option name="maxLengthToMatch" value="5000" />
+          <option name="maxProcessingTime" value="5000" />
           <option name="name" value="default" />
         </Profile>
       </list>
     </option>
+    <option name="version" value="1" />
   </component>
 </application>

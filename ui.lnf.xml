@@ -30,10 +30,13 @@
   </component>
   <component name="UISettings">
     <option name="ANIMATE_WINDOWS" value="false" />
+    <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="1000" />
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="10240" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
     <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
     <option name="MAX_LOOKUP_WIDTH2" value="662" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
   </component>
